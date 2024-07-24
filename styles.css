@@ -1,7 +1,10 @@
 
 * {
-    background-color: rgb(224, 151, 255);
     font-family: 'Times New Roman', 'Georgia', serif;
+}
+
+body {
+    background-color: rgb(240, 172, 240);
 }
 
 a {
@@ -15,19 +18,19 @@ a {
     color: white;
 }
 
-.description, .description p{
+div {
+    padding: 20px;
+}
+
+.description {
     background-color: rgb(245, 198, 245);
 }
 
-.description p {
-    font-size: 20px;
-}
-
-.ingredients, .ingredients ul, .ingredients li {
+.ingredients {
     background-color: rgb(203, 125, 227);
 }
 
-.steps, .steps ol, .steps li {
+.steps {
     background-color: rgb(185, 94, 213);
 }
 
