@@ -1,0 +1,36 @@
+
+* {
+    background-color: rgb(224, 151, 255);
+    font-family: 'Times New Roman', 'Georgia', serif;
+}
+
+a {
+    color: black;
+    font-size: 26px;
+}
+
+.page_title {
+    text-align: center;
+    background-color:rgb(47, 0, 68);
+    color: white;
+}
+
+.description, .description p{
+    background-color: rgb(245, 198, 245);
+}
+
+.description p {
+    font-size: 20px;
+}
+
+.ingredients, .ingredients ul, .ingredients li {
+    background-color: rgb(203, 125, 227);
+}
+
+.steps, .steps ol, .steps li {
+    background-color: rgb(185, 94, 213);
+}
+
+li {
+    font-size: 20px;
+}
